@@ -12,8 +12,3 @@ spec:
       labels:
         app: demo 
     spec:
-      containers:
-        - name: demo
-          image: ""
-          ports:
-          - containerPort: 80
